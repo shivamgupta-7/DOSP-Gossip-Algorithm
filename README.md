@@ -1,6 +1,8 @@
 # DOSP-Gossip-Algorithm
 Developed as Part of Coursework for COP5615 - Distributed Operating Systems
 
+Programming Language: Erlang
+
 https://user-images.githubusercontent.com/47007121/208554145-27140732-4f76-470a-860f-e1d98cdd1082.mp4
 
 Description
